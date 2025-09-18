@@ -1,7 +1,7 @@
 # OOSD_FB_01
 Repository to test skills
 
-- Volg de standaard stappen en zorg ervoor dat deze repository in jouw GitHub account terecht komt
-- Pas de README aan op een lokale versie van de repository door er een stukje tekst aan toe te voegen
-- Zorg dat de deze aanpassing zichtbaar wordt in jouw online versie op jouw GitHub account
-- Zorg ervoor dat het niet mee mogelijk is om README aan te passen hierna.
+- Volg de standaard stappen en zorg ervoor dat je een kopie maakt van deze repository in jouw GitHub account
+- Pas de README.MD aan via een lokale versie van de repository door er de tekst "Ik, <naam>, heb dit aangepast" aan toe te voegen (doe dit via een branch)
+- Zorg dat deze aanpassing zichtbaar wordt in jouw online versie op jouw GitHub account (gebruik hiervoor de juiste techniek)
+- Zorg ervoor dat het niet meer mogelijk is om README aan te passen hierna.
